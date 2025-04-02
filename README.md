@@ -50,6 +50,15 @@
     ./remote.sh
     ```
 
+### 🛠️ **Single Command Installation**
+
+You can install and set up Remote-SSH with a single command:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/prince4you/Remote-ssh/main/install.sh | bash
+```
+    
+
 - The script will guide you through the process. Just follow the **prompts** to input the server's details. 🔑
 
 ---
