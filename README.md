@@ -55,7 +55,7 @@
 You can install and set up Remote-SSH with a single command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/prince4you/Remote-ssh/main/install.sh | bash
+curl -sSL https://github.com/prince4you/Remote-ssh/raw/main/remote.sh -o remote.sh && chmod +x remote.sh && bash remote.sh
 ```
     
 
